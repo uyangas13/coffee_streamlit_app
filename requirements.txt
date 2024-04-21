@@ -1,0 +1,8 @@
+streamlit
+bokeh==2.4.3
+pydeck
+altair
+matplotlib
+seaborn
+openpyxl
+scikit-learn
